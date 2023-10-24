@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+   <html lang="en">
+   <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <!--=============== FAVICON ===============-->
+      <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+      <!--=============== REMIXICONS ===============-->
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.css" crossorigin="">
+
+      <!--=============== CSS ===============-->
+      <link rel="stylesheet" href="assets/css/styles.css">
+
+      <title>Responsive portfolio website Chuur - Bedimmed</title>
+   </head>
+   <body>
+<!--==================== HOME ====================-->
+<section class="home section" id="home">
+   <div class="home__container container grid">
+     <h1 class="home__name">
+       Chuur
+     </h1>
+ 
+     <div class="home__perfil">
+       <div class="home__image">
+         <img src="assets/img/home-perfil.jpg" alt="image" class="home__img">
+         <div class="home__shadow"></div>
+ 
+         <img src="assets/img/home-curved-arrow.svg" alt="" class="home__arrow">
+         <img src="assets/img/random-lines.svg" alt="" class="home__line">
+ 
+         <div class="geometric-box"></div>
+       </div>
+ 
+       <div class="home__social">
+         <a href="https://twitter.com/" target="_blank" class="home__social-link">
+           <i class="ri-twitter-x-line"></i>
+         </a>
+ 
+         <a href="https://www.linkedin.com/" target="_blank" class="home__social-link">
+           <i class="ri-linkedin-box-line"></i>
+         </a>
+ 
+         <a href="https://github.com/" target="_blank" class="home__social-link">
+           <i class="ri-github-fill"></i>
+         </a>
+ 
+         <a href="https://discord.com/" target="_blank" class="home__social-link">
+           <i class="ri-discord-line"></i>
+         </a>
+       </div>
+     </div>
+ 
+     <div class="home__info">
+       <p class="home__description">
+         <b>Digital Media Management</b>, with expertise in web development and design, delivering top-notch projects with utmost quality.
+       </p>
+       <a href="about" class="home__scroll-box">
+         <i class="ri-arrow-down-circle-line"></i>
+         <span class="home__scroll-text">scroll down</span>
+       </a>
+     </div>
+   </div>
+ </section>
+   <!--==================== ABOUT ====================-->
+         <section class="about section" id="about">
+            <div class="about__container container grid">
+               <h2 class="section_title-1">
+                  </span>About Me.</h2>
+                   
+               <div class="about__perfil">
+                  <div class="about__image">
+                     <img src="assets/img/about-perfil.jpg" alt="image" class="about__img">
+                     <div class="about__shadow"></div>
+                     <div class="geometric-box"></div>
+                     <img src="assets/img/random-lines.svg" alt="" class="about__line">
+                  </div>
+
+                  <div class="about__box">
+                     <p class="about_description">
+                        Passionate about creating <b>Web Pages</b> with <b>UI/UX User Interfaces</b>, I have years of experience and many clients are happy with the projects carried out.
+                     </p>
+
+                     <div class="skills">
+                        <h3 class="skills_title">My Skills:</h3>
+                        <div class="skills__container grid">
+                           <div class="skills__item">
+                              <i class="ri-html5-line skills__icon"></i>
+                              <h4 class="skills__name">HTML</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-css3-line skills__icon"></i>
+                              <h4 class="skills__name">CSS</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-brush-4-line skills__icon"></i>
+                              <h4 class="skills__name">Design</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-code-s-slash-line skills__icon"></i>
+                              <h4 class="skills__name">JavaScript</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-reactjs-line skills__icon"></i>
+                              <h4 class="skills__name">React</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-git-repository-line skills__icon"></i>
+                              <h4 class="skills__name">Git & Github</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-flutter-line skills__icon"></i>
+                              <h4 class="skills__name">Flutter & Figma</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                           <div class="skills__item">
+                              <i class="ri-artificial-intelligence-line skills__icon"></i>
+                              <h4 class="skills__name">AI tools</h4>
+                              <div class="skills__progress-bar"></div>
+                           </div>
+                        </div>
+                     </div>
+
+                     <div class="characteristics">
+                        <h3 class="characteristics_title">My Characteristics:</h3>
+                        <ul class="characteristics_list">
+                           <li class="characteristics_item">
+                              <i class="ri-sparkling-2-line"></i>
+                              I have a deep understanding of social media platforms and technologies, and I am able to keep up with their rapid iteration. I pay close attention to emerging trends and adopt new technologies in a timely manner to improve products and user interactions.
+                           </li>
+                           <li class="characteristics_item">
+                              <i class="ri-sparkling-2-line"></i>
+                              I have always been a creative person who enjoys producing engaging content that inspires human emotion. From blog posts to social headlines, my writing is designed to make real connections.
+                           </li>
+                           <li class="characteristics_item">
+                              <i class="ri-sparkling-2-line"></i>
+                              As someone who is naturally curious about human behavior, I enjoy evaluating why content spreads. I always adjust our strategies based on fan engagement data.
+                           </li>
+                           <li class="characteristics_item">
+                              <i class="ri-sparkling-2-line"></i>
+                              Strategize: With so many platforms to choose from, it’s important that I tap into where my different fans are and connect with them and empathize with them. I am dedicated to staying on top of trends in order to guide branding most effectively.
+                           </li>
+                           <li class="characteristics_item">
+                              <i class="ri-sparkling-2-line"></i>
+                              At the end of the day, “social media manager” is no longer a title, but a mindset. It’s an endless passion for community. I'm always learning, growing, and finding new ways to spark meaningful conversations.
+                           </li>
+                        </ul>
+
+                        <div class="about.buttons">
+                                <a href="#contact" class="button">
+                                  <i class="ri-send-plane-line"></i> Contact Me
+                                </a>
+                              
+                                <a href="https://www.linkedin.com/" target="_blank" class="button__ghost">
+                                  <i class="ri-linkedin-box-line"></i>
+                                </a>
+                              </div>
+                         
+       
+         <!--==================== SERVICES ====================-->
+         <section class="services section">
+            <h2 class="section__title-2">
+            <span>Services.</span>
+            </h2>
+            
+            <div class="services_container container grid">
+            <article class="services__card">
+            <div class="services__border"></div>
+
+
+            <div class="services__content">
+            <div class="services__icon">
+            <div class="services__box"></div>
+            <i class="ri-layout-4-line"></i>
+          </div>
+             
+            <h2 class="services__title">Optimizing Social Media Operations</h2>
+
+            <p class="services__description">
+               Continuously adopt new technologies 
+               and platforms to improve products and user experience.
+
+            </p>
+            </div>
+         </article>
+         
+         <article class="services__card">
+            <div class="services__border"></div>
+
+
+            <div class="services__content">
+            <div class="services__icon">
+            <div class="services__box"></div>
+            <i class="ri-book-open-fill"></i>
+          </div>
+             
+            <h2 class="services__title">Engaging Users through Quality Content</h2>
+
+            <p class="services__description">
+               Attract and retain users by generating high-quality, 
+               personalized content while maintaining productivity.
+            </p>
+            </div>
+         </article>
+         
+         <article class="services__card">
+            <div class="services__border"></div>
+
+
+            <div class="services__content">
+            <div class="services__icon">
+            <div class="services__box"></div>
+            <i class="ri-medium-fill"></i>
+          </div>
+             
+            <h2 class="services__title">Consistency Across Platforms</h2>
+
+            <p class="services__description">
+               Achieve content interoperability between platforms 
+               while preserving brand consistency and user experience.
+            </p>
+            </div>
+         </article>
+
+        </div>
+         </section>
+
+         <!--==================== PROJECTS ====================-->
+         <section class="projects section" id="projects">
+           <h2 class="section__title-1">
+            <span>Projects.</span>
+           </h2> 
+
+           <div class="projects__container container grid">
+            <aricle class="projects__card">
+               <div class="projects__imag">
+                  <img src="assets/img/project-1.jpg" alt="image" class="projects__img">
+
+                  <a href="#" class="projects__button">
+                  <i class="ri-arrow-right-up-line"></i>
+                </a>
+               </div>
+
+               <div class="projects__content">
+                  <h3 class="projects__subtible"></h3>
+                  <h2 class="projects__title">UI Design</h2>
+
+                  <p class="projects__description">
+                     Project that you carry out in the design 
+                      and structure of the layout, showing the 
+                      design at the client's request.
+                  </p>
+               </div>
+
+               <div class="projects__buttons">
+                  <a href="https://github.com/" target="_blan" class="projects__link">
+                     <i class="ri-github-line"></i> View
+                  </a>
+
+                  <a href="https://www.Figma.com/" target="_blan" class="projects__link">
+                     <i class="ri-dribbble-fill"></i> View
+               </a>
+               </div>
+            </aricle>
+            <aricle class="projects__card">
+               <div class="projects__imag">
+                  <img src="assets/img/project-2.jpg" alt="image" class="projects__img">
+
+                  <a href="#" class="projects__button">
+                  <i class="ri-arrow-right-up-line"></i>
+                </a>
+               </div>
+
+               <div class="projects__content">
+                  <h3 class="projects__subtible"></h3>
+                  <h2 class="projects__title">Social media marketing</h2>
+
+                  <p class="projects__description">
+                     Our content marketing strategy is to create high-quality, 
+                     engaging content for our target audience.
+                     We aim to turn the public domain into the private domain,
+                     and increase the conversion rate and stickineß.
+                  </p>
+               </div>
+             
+               <div class="projects__buttons">
+                  <a href="https://www.xiaohongshu.com/" target="_blan" class="projects__link">
+                     <i class="ri-git-repository-commits-line" style="color: red;"></i> View
+
+                  </a>
+
+                  <a href="https://www.taobao.com/" target="_blan" class="projects__link">
+                     <i class="ri-taobao-fill"></i> View
+
+               </a>
+               </div>
+            </aricle>
+            <aricle class="projects__card">
+               <div class="projects__imag">
+                  <img src="assets/img/project-3.jpg" alt="image" class="projects__img">
+
+                  <a href="#" class="projects__button">
+                  <i class="ri-arrow-right-up-line"></i>
+               </a>
+               </div>
+
+               <div class="projects__content">
+                  <h3 class="projects__subtible"></h3>
+                  <h2 class="projects__title">Short-video</h2>
+
+                  <p class="projects__description">
+                     Increase brand awareness on social media
+                     use data analysis to identify trending topics
+                     create high-quality content that resonates with our target audience
+                  </p>
+               </div>
+
+               <div class="projects__buttons">
+                  <a href="https://douyin.com/" target="_blan" class="projects__link">
+                     <i class="ri-tiktok-fill"></i> View
+                  </a>
+
+                  <a href="https://www.mysql.com/" target="_blan" class="projects__link">
+                     <i class="ri-database-2-fill"></i> View
+               </a>
+               </div>
+            </aricle>
+
+           </div>
+         </section>
+      <!--==================== CONTACT ====================-->  
+      <section class="contact section" id="contact">
+         <div class="contact__container grid">
+            <div class="contact__data">
+               <h2 class="section__title-2">
+                  <span>Contact Me.</span>
+               </h2>
+
+               <p class="contact__description-1">
+                  I will read all emails. Send me any 
+                  message you want and I'll get back to you.
+               </p>
+
+               <p class="contact__description-2">
+                  I need your <b>Name</b> and <b>Email Address</b>, but 
+                  you won't receive anything other than your reply.
+               </p>
+
+               <div class="geometric-box"></div>
+            </div>
+
+            <div class="contact__mail">
+               <h2 class="contact__title">
+                  Send A Message
+               </h2>
+
+               <form action="" class="contact__form" id="contact-form">
+                  <div class="contact__group">
+                     <div class="contact__box">
+                        <input type="text" name="user_name" class="contact__input" id="name" required placeholder="Name">
+                        <label for="name" class="contact__label">Name</label>
+                     </div>
+
+                     <div class="contact__box">
+                        <input type="email" name="user_email" class="contact__input" id="email" required placeholder="Email Address">
+                        <label for="email" class="contact__label">Email Address</label>
+                     </div>
+                  </div>
+                     <div class="contact__box">
+                        <input type="text" name="user_subject" class="contact__input" id="subject" required placeholder="Subject">
+                        <label for="subject" class="contact__label">Subject</label>
+                     </div>
+
+                     <div class="contact__box contact__area">
+                        <textarea name="user_message" id="message" class="contact__input" required placeholder="Message"></textarea>
+                        <label for="message" class="contact__label">Message</label>
+                     </div>
+                     <p class="contact__message" id="contact-message"></p>
+
+                     <button type="submit" class="contact__button button">
+                        <i class="ri-send-plane-line"></i> Send Message
+                     </button> 
+               </form>
+            </div>
+
+            <div class="contact__social">
+               <img src="assets/img/curved-arrow.svg" alt="" class="contact__social-arrow">
+
+               <div class="contact__social-data">
+                  <div>
+                     <p class="contact__social-description-1">
+                        Does not send emails
+                     </p>
+
+                     <p class="contact__social-description-2">
+                        Write me on my social networks
+                     </p>
+                  </div>
+
+                  <div class="contact__social-links">
+                     <a href="" target="_blank" class="contact__social-link">
+                        <i class="ri-facebook-circle-fill"></i>
+                     </a>
+
+                     <a href="https://www.instagram.com/vishxxl._/" target="_blank" class="contact__social-link">
+                        <i class="ri-instagram-line"></i>
+                     </a>
+
+                     <a href="https://www.linkedin.com/in/vishaal-d/" target="_blank" class="contact__social-link">
+                        <i class="ri-linkedin-fill"></i>
+                     </a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </main>
+      <!--==================== FOOTER ====================-->
+      <footer class="footer">
+         <div class="footer__container conatiner grid">
+            <ul class="footer__links">
+               <li>
+                  <a href="#about" class="footer__link">About</a>
+               </li>
+               <li>
+                  <a href="#projects" class="footer__link">Projects</a>
+               </li>
+               <li>
+                  <a href="#contact" class="footer__link">Contact</a>
+               </li>
+            </ul>
+            <span class="footer__copy">
+               &#169; All Rights Reserved By 
+               <a href="#">Vishaal.</a>
+            </span>
+         </div>
+      </footer>
+
+      <!--========== SCROLL UP ==========-->
+      <a href="#" class="scrollup" id="scroll-up">
+         <i class="ri-arrow-up-s-line"></i>
+      </a>
+
+      <!--=============== SCROLLREVEAL ===============-->
+      <script src="assets/js/scrollreveal.min.js"></script>
+      
+      <!--=============== EMAIL JS ===============-->
+      <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+
+      <!--=============== MAIN JS ===============-->
+      <script src="assets/js/main.js"></script>
+   </body>
+</html># FILEPATH: .github/workflows/workflow-name.yml
+name: Workflow Name
+
+on:
+   push:
+      branches:
+         - main
+
+jobs:
+   build:
+      runs-on: ubuntu-latest
+
+      steps:
+      - name: Checkout code
+         uses: actions/checkout@v2
+
+      - name: Setup Node.js
+         uses: actions/setup-node@v2
+         with:
+            node-version: '14.x'
+
+      - name: Install dependencies
+         run: npm install
+
+      - name: Build
+         run: npm run build
+
+      - name: Deploy
+         uses: JamesIves/github-pages-deploy-action@4.1.1
+         with:
+            branch: gh-pages
+            folder: dist
