@@ -1,0 +1,197 @@
+========== HEADER ==========
+.nav__logo-circle
+R
+
+.nav__logo-name
+Chuur.
+
+.nav__title
+Menu
+
+.nav__name
+Chuur
+
+.nav__link
+Home - About Me - Projects - Contact Me
+
+
+========== HOME ==========
+.home__name
+Chuur 
+
+.home__social-link
+https://twitter.com/
+https://www.linkedin.com/
+https://github.com
+https://discord.com/
+
+.home__description
+<b>Digital Media Management</b>,
+ with knowledge in web development and design, 
+ I offer the best projects resulting in quality work.
+
+.home__scroll-text
+Scroll Down
+
+
+========== ABOUT ==========
+.section__title-1
+About Me.
+
+.about__description
+ <p class="about_description">
+    Passionate about creating <b>Web Pages</b> with <b>UI/UX User Interfaces</b>, I have years of experience and many clients are happy with the projects carried out.
+  </p>
+  <ul class="about__list">
+    <li class="about__item">
+      <b>My Skills Are:</b> HTML, CSS, JavaScript, React, Git & Github, Bootstrap, Flutter & Figma, and AI tools.
+    </li>
+  </ul>
+</div>
+
+<div class="characteristics">
+  <h3 class="characteristics_title">My Characteristics:</h3>
+  <p class="characteristics_description">
+    I like the Internet and have been working in social media marketing in the language community YY since high school, building a following of thousands. It all started when I realized my passion for engaging storytelling online. From publishing blog posts on my school's official website to creating video scripts, filming, and editing clips for celebrity blogger events, I love making connections online.
+  </p>
+  <p class="characteristics_description">
+    I have always been a creative person who enjoys producing engaging content that inspires human emotion. Whether it's blog posts or social media headlines, my writing is designed to create genuine connections.
+  </p>
+  <p class="characteristics_description">
+    As someone naturally curious about human behavior, I enjoy evaluating why content spreads and adjusting strategies based on fan engagement data.
+  </p>
+  <p class="characteristics_description">
+    Strategizing is essential when choosing the right platforms to connect with my diverse fan base, empathize with them, and guide branding most effectively. Staying updated with the latest trends allows me to make informed decisions.
+  </p>
+  <p class="characteristics_description">
+    At the end of the day, being a "social media manager" is more than just a title – it's a mindset. It's a passion for building communities and constantly learning, growing, and finding new ways to spark meaningful conversations.
+  </p>
+
+.about__item
+ <b>My Skills Are:</b> HTML, CSS, JavaScript, React, Git & Github, Bootstrap, Flutter & Figma, and AI tools.
+   
+
+.button
+Contact Me
+
+.button__ghost
+https://www.linkedin.com/
+
+
+========== SERVICES ==========
+.section__title-2
+Services.
+
+.services__title .services__description
+Optimizing Social Media Operations
+Continuously adopt new technologies 
+and platforms to improve products 
+and user experience. 
+
+Engaging Users through Quality Content
+Attract and retain users by generating high-quality, 
+personalized content while maintaining productivity.
+
+Consistency Across Platforms
+Achieve content interoperability between platforms 
+while preserving brand consistency and user experience.
+
+
+========== PROJECTS ==========
+.section__title-1
+Projects.
+
+.projects__subtitle 
+Website
+App
+
+.projects__title 
+Social media
+Short-video operation
+Fast Food App
+Coffee Delivery Website
+Barbershop Website
+
+.projects__description
+Project that you carry out in the design 
+and structure of the layout, showing the 
+design at the client's request.
+
+.projects__link
+View
+
+https://github.com/
+https://dribbble.com/
+
+========== CONTACT ==========
+.section__title-2
+Contact Me.
+
+.contact__description-1
+I will read all emails. Send me any 
+message you want and I'll get back to you.
+
+.contact__description-2
+I need your <b>Name</b> and <b>Email Address</b>, but 
+you won't receive anything other than your reply.
+
+.contact__title
+Send Me A Message 
+
+.contact__label - placeholder
+First Name 
+Email Address
+Subject
+Message
+
+.contact__button
+Send Message
+
+.contact__social-description-1
+Does not send emails
+
+.contact__social-description-2
+Write me on my social networks
+
+.contact__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://www.linkedin.com/
+
+
+========== CONTACT JS ==========
+// serviceID - templateID - #form - publicKey
+
+   // Show sent message
+      Message sent successfully ✅
+
+   // Remove message after five seconds
+
+   // Clear input fields
+
+   // Show error message
+      Message not sent (service error) ❌
+
+Subject *
+New message from {{user_name}}
+
+Content *
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Subject: {{user_subject}}
+
+Message: {{user_message}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__links
+Home - About - Projects
+
+.footer__copy
+&#169; All Rights Reserved By 
+<a href="#">Bedimcode.</a>
