@@ -1,6 +1,6 @@
 ========== HEADER ==========
 .nav__logo-circle
-R
+c
 
 .nav__logo-name
 Chuur.
